@@ -1,10 +1,5 @@
 # CS4_Q1_Week6_FoodAndExercise
-
-CS4 Q1 W6 - Food and Exercise
 =============================
-
-![qownnotes-media-FhhQfj](banner.png)
-
 
 ## Learning Objective
 
@@ -19,9 +14,7 @@ In the main method, create a loop such that the day is displayed and the user is
 
 ### Flowchart
 
-
 ![qownnotes-media-RIrEXa](flowchart.png)
-
 
 ### Notes
 
