@@ -278,12 +278,3 @@ public class Person{
   }
 }
 ```
-
-## Assessment Criteria
-
-Your code's grade is directly proportional to the number of tests passed.
-
-## Due Date 
-
-Please submit this on or before the assigned due date (around Q1 Week 6 or Week 7).
-
