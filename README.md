@@ -1,5 +1,4 @@
 # CS4_Q1_Week6_FoodAndExercise
-=============================
 
 ## Learning Objective
 
